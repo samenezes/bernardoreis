@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Open+Sans:wght@600&display=swap');
+
+footer {
+  background-color: #620202;
+  height: 50px;
+}
+
+.texto {
+  color: white;
+  font-family: 'Open Sans';
+  font-size: 13px;
+  text-align: center;
+  padding-top: 14px;
+}
